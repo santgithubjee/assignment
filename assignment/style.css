@@ -1,0 +1,42 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: #bad1c2;
+
+}
+.navbar-nav
+{
+    margin-left: 45rem;
+}
+.navbar-brand
+{
+    margin-left: 2rem;
+}
+.nav-item:hover
+{
+background-color: rgb(97, 118, 118);
+color: white;
+}
+.navbar
+{
+    background-color:#393E46;
+}
+.h1-
+{
+    text-align: center;
+    margin-top: 5px;
+}
+.cont
+{
+    font-size: 15px;
+    background-color: beige;
+    border: 2px solid grey;
+    padding: 10px;
+    margin: 5px;
+    text-align: center;
+
+}
+#time
+{
+    font-weight: bold;
+}
